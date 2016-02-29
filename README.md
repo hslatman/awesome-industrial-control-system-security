@@ -9,6 +9,16 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
+            <a href="https://github.com/mushorg/conpot" target="_blank">Conpot</a>
+        </td>
+        <td>
+            Conpot is a low interactive server side Industrial Control Systems honeypot designed to be easy to deploy, modify and extend.
+            It features easy customization and and behaviour mimicking, amongst others, and can be extended with real HMIs.
+            Built and maintained under the Honeynet project.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/sjhilt/GasPot" target="_blank">GasPot</a>
         </td>
         <td>
