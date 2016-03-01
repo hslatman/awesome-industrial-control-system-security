@@ -40,6 +40,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             4SICS – Stockholm annual, international summit on cyber-security in SCADA and Industrial Control Systems.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="http://ics.sans.org/ics-library/summit-archives" target="_blank">SANS ICS Summit Archives</a>
+        </td>
+        <td>
+            Central repository for the presentation material for the SANS ICS Summits held worldwide. 
+        </td> 
+    </tr>
 </table>
 
 ## License
