@@ -4,6 +4,8 @@ A curated list of resources related to Industrial Control System (ICS) security.
 Feel free to [contribute](CONTRIBUTING.md).
 
 
+
+
 ## Honeypots
 
 <table>
@@ -23,6 +25,19 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             GasPot is a honeypot that has been designed to simulate a Veeder Root Gaurdian AST. These Tank Gauges are common in the oil and gas industry for Gas Station tanks to help with Inventory of fuels. GasPot was designed to randomize as much as possible so no two instances look exactly the same.
+        </td> 
+    </tr>
+</table>
+
+## Conferences and Conference Material
+
+<table>
+    <tr>
+        <td>
+            <a href="https://4sics.se/" target="_blank">4SICS</a>
+        </td>
+        <td>
+            4SICS – Stockholm annual, international summit on cyber-security in SCADA and Industrial Control Systems.
         </td> 
     </tr>
 </table>
