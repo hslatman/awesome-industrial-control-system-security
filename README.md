@@ -4,7 +4,21 @@ A curated list of resources related to Industrial Control System (ICS) security.
 Feel free to [contribute](CONTRIBUTING.md).
 
 
+## Tools
 
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/digitalbond/Redpoint" target="_blank">Digital Bond's ICS Enumeration Tools</a>
+        </td>
+        <td>
+            Redpoint is a Digital Bond research project to enumerate ICS applications and devices using nmap extensions.
+            It can be used during assessments to discover ICS devices and pull information that would be helpful in secondary testing. 
+            The Redpoint tools use legitimate protocol or application commands to discover and enumerate devices and applications. 
+            There is no effort to exploit or crash anything, but be wise and careful.
+        </td> 
+    </tr>
+</table>
 
 ## Honeypots
 
