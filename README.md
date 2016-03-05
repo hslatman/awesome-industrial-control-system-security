@@ -54,6 +54,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             The "Geek Lounge" at 4SICS contains an ICS lab with PLCs, RTUs, servers, industrial network equipment (switches, firewalls, etc). These devices are available for hands-on "testing" by 4SICS attendees and traffic has been captured from these.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.digitalbond.com/s4/s4x15-week/s4x15-ics-village/" target="_blank">S4x15 ICS Village</a>
+        </td>
+        <td>
+            PCAPS from the S4x15 CTF as used during the contest.
+        </td> 
+    </tr>
 </table>
 
 ## Conferences and Conference Material
