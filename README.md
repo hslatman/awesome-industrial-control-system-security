@@ -56,6 +56,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://media.defcon.org/DEF%20CON%2023/DEF%20CON%2023%20villages/DEF%20CON%2023%20ics%20village/DEF%20CON%2023%20ICS%20Village%20packet%20captures.rar" target="_blank">DEF CON 23 ICS Village PCAPS</a>
+        </td>
+        <td>
+            PCAPS from the 23rd DEF CON.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.digitalbond.com/s4/s4x15-week/s4x15-ics-village/" target="_blank">S4x15 ICS Village</a>
         </td>
         <td>
