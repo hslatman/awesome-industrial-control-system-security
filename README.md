@@ -43,6 +43,19 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
 </table>
 
+## Data
+
+<table>
+    <tr>
+        <td>
+            <a href="http://www.netresec.com/?page=PCAP4SICS" target="_blank">4SICS ICS Lab PCAPS</a>
+        </td>
+        <td>
+            The "Geek Lounge" at 4SICS contains an ICS lab with PLCs, RTUs, servers, industrial network equipment (switches, firewalls, etc). These devices are available for hands-on "testing" by 4SICS attendees and traffic has been captured from these.
+        </td> 
+    </tr>
+</table>
+
 ## Conferences and Conference Material
 
 <table>
