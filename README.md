@@ -39,6 +39,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             Moki is a modification of Kali to encorporate various ICS/SCADA Tools scattered around the internet, to create a customized Kali Linux geared towards ICS/SCADA pentesting professionals.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="http://www.samuraistfu.org/" target="_blank">SamuraiSTFU</a>
+        </td>
+        <td>
+            SamuraiSTFU takes the best in breed security tools for traditional network and web penetration testing, adds specialized tools for embedded and RF testing, and mixes in a healthy dose of energy sector context, documentation, and sample files, including emulators for SCADA, Smart Meters, and other types of energy sector systems to provide leverage a full test lab.
+        </td> 
+    </tr>
 </table>
 
 ## Honeypots
