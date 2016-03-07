@@ -26,6 +26,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             smod is a modular framework with every kind of diagnostic and offensive feature you could need in order to pentest modbus protocol. It is a full Modbus protocol implementation using Python and Scapy. The framework can be used to perform vulnerability assessments.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/moki-ics/moki" target="_blank">Moki Linux</a>
+        </td>
+        <td>
+            Moki is a modification of Kali to encorporate various ICS/SCADA Tools scattered around the internet, to create a customized Kali Linux geared towards ICS/SCADA pentesting professionals.
+        </td> 
+    </tr>
 </table>
 
 ## Honeypots
