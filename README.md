@@ -99,6 +99,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             PCAPS from the S4x15 CTF as used during the contest.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/scadastrangelove/SCADAPASS" target="_blank">SCADAPASS</a>
+        </td>
+        <td>
+            The famous SCADA StrangeLove Default/Hardcoded Passwords List.
+        </td> 
+    </tr>
 </table>
 
 ## Conferences and Conference Material
