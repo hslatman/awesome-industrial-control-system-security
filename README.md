@@ -26,6 +26,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             smod is a modular framework with every kind of diagnostic and offensive feature you could need in order to pentest modbus protocol. It is a full Modbus protocol implementation using Python and Scapy. The framework can be used to perform vulnerability assessments.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/0xICF/SCADAShutdownTool" target="_blank">SCADAShutdownTool</a>
+        </td>
+        <td>
+            SCADAShutdownTool is an industrial control system automation and testing tool allows security researchers and experts to test SCADA security systems, enumerate slave controllers, read controller's registers values and rewrite registers data. 
+        </td> 
+    </tr>
 </table>
 
 ## Distributions
