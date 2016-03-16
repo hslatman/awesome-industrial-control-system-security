@@ -34,6 +34,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             SCADAShutdownTool is an industrial control system automation and testing tool allows security researchers and experts to test SCADA security systems, enumerate slave controllers, read controller's registers values and rewrite registers data. 
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.wireshark.org/" target="_blank">Wireshark</a>
+        </td>
+        <td>
+            Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions. It has support for many protocols used in ICS.
+        </td> 
+    </tr>
 </table>
 
 ## Distributions
