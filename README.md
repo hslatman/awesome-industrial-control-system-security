@@ -156,6 +156,19 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
 </table>
 
+## Literature
+
+<table>
+    <tr>
+        <td>
+            <a href="http://csrc.nist.gov/publications/nistpubs/800-82/SP800-82-final.pdf" target="_blank">SP 800-82</a>
+        </td>
+        <td>
+            The Guide to Industrial Control Systems (ICS) Security by NIST.
+        </td> 
+    </tr>
+</table>
+
 ## License
 
 Licensed under [Apache License 2.0](LICENSE).
