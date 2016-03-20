@@ -135,6 +135,21 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
 </table>
 
+## Feeds and News
+
+<table>
+    <tr>
+        <td>
+            <a href="https://ics-cert.us-cert.gov/xml/rss.xml" target="_blank">ICS-CERT RSS Feed</a>
+        </td>
+        <td>
+            The RSS feed by the United States ICS-CERT lists news and newly released vulnerability advisories.
+        </td> 
+    </tr>
+</table>
+
+
+
 ## Conferences and Conference Material
 
 <table>
