@@ -119,6 +119,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://icsmap.shodan.io/" target="_blank">ICS Map</a>
+        </td>
+        <td>
+            A map created from data gathered by Shodan showing ICS devices. Data is made available for further analysis.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.digitalbond.com/s4/s4x15-week/s4x15-ics-village/" target="_blank">S4x15 ICS Village</a>
         </td>
         <td>
