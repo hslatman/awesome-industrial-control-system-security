@@ -127,6 +127,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://ics-radar.shodan.io/" target="_blank">ICS Radar</a>
+        </td>
+        <td>
+            Data gathered from several types of ICS protocols by Shodan visualized on a globe.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.digitalbond.com/s4/s4x15-week/s4x15-ics-village/" target="_blank">S4x15 ICS Village</a>
         </td>
         <td>
