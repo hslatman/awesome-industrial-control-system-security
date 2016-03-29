@@ -28,6 +28,15 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://www.digitalbond.com/tools/quickdraw/download/" target="_blank">Quickdraw IDS</a>
+        </td>
+        <td>
+            The Quickdraw IDS project by Digital Bond includes Snort rules for SCADA devices and so-called preprocessors for network traffic. 
+            The preprocessors provide significant additional value because of their ability to reconstruct the protocol and state for use by Snort.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/0xICF/SCADAShutdownTool" target="_blank">SCADAShutdownTool</a>
         </td>
         <td>
