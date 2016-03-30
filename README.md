@@ -171,6 +171,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             The RSS feed by the United States ICS-CERT lists news and newly released vulnerability advisories.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="http://www.industry.siemens.com/topics/global/en/industrial-security/news-alerts/pages/alerts.aspx" target="_blank">Industrial Security Alerts</a>
+        </td>
+        <td>
+            Siemens provides alerts for its industrial systems via this page and RSS feed.
+        </td> 
+    </tr>
 </table>
 
 
