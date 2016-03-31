@@ -209,6 +209,14 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
+            <a href="http://www.amazon.com/Industrial-Network-Security-Second-Edition/dp/0124201148/ref=sr_1_3?ie=UTF8&qid=1414970315&sr=8-3&keywords=industrial+network+security" target="_blank">Industrial Network Security, Second Edition</a>
+        </td>
+        <td>
+            Industrial Network Security, Second Edition: Securing Critical Infrastructure Networks for Smart Grid, SCADA, and Other Industrial Control Systems by Eric D. Knapp and Joel Thomas Langill.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="http://csrc.nist.gov/publications/nistpubs/800-82/SP800-82-final.pdf" target="_blank">SP 800-82</a>
         </td>
         <td>
