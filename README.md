@@ -209,6 +209,14 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
+            <a href="http://www.amazon.com/Applied-Cyber-Security-Smart-Grid/dp/1597499986/" target="_blank">Applied Cyber Security and the Smart Grid</a>
+        </td>
+        <td>
+            Applied Cyber Security and the Smart Grid: Implementing Security Controls into the Modern Power Infrastructure by Eric D. Knapp and Raj Samani.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.amazon.com/Industrial-Network-Security-Second-Edition/dp/0124201148/ref=sr_1_3?ie=UTF8&qid=1414970315&sr=8-3&keywords=industrial+network+security" target="_blank">Industrial Network Security, Second Edition</a>
         </td>
         <td>
