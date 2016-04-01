@@ -165,6 +165,14 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
+            <a href="https://ics-cert.us-cert.gov/alerts" target="_blank">ICS-CERT Alerts</a>
+        </td>
+        <td>
+            The ICS-CERT Alert feed is intended to provide timely notification to critical infrastructure owners and operators concerning threats or activity with the potential to impact critical infrastructure computing networks.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://ics-cert.us-cert.gov/xml/rss.xml" target="_blank">ICS-CERT RSS Feed</a>
         </td>
         <td>
