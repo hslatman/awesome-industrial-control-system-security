@@ -45,6 +45,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://splone.com/splonebox/" target="_blank">splonebox</a>
+        </td>
+        <td>
+            splonebox is an open source network assessment tool with focus on modularity. It offers an ongoing analysis of a network and its devices. One major design decision features development of custom plugins, including ones for industrial communication protocols.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.wireshark.org/" target="_blank">Wireshark</a>
         </td>
         <td>
