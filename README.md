@@ -28,6 +28,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://www.automatak.com/opendnp3/" target="_blank">Opendnp3</a>
+        </td>
+        <td>
+            Opendnp3 is the de facto reference implementation of IEEE-1815 (DNP3) provided under the Apache License.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.digitalbond.com/tools/quickdraw/download/" target="_blank">Quickdraw IDS</a>
         </td>
         <td>
