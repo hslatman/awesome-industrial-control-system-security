@@ -44,6 +44,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/yanlinlin82/plcscan" target="_blank">plcscan</a>
+        </td>
+        <td>
+            Tool for scaning PLC devices over the s7comm or modbus protocol.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.digitalbond.com/tools/quickdraw/download/" target="_blank">Quickdraw IDS</a>
         </td>
         <td>
