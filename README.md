@@ -36,6 +36,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/moki-ics/modscan" target="_blank">ModScan</a>
+        </td>
+        <td>
+            ModScan is a new tool designed to map a SCADA MODBUS TCP based network.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.automatak.com/opendnp3/" target="_blank">Opendnp3</a>
         </td>
         <td>
