@@ -9,6 +9,14 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
+            <a href="https://www.digitalbond.com/tools/basecamp/3s-codesys/" target="_blank">Digital Bond's 3S CoDeSys Tools</a>
+        </td>
+        <td>
+            Digital Bond created three tools for interacting with PLCs that run CoDeSys, consisting of a command shell, file transfer and NMap script.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/digitalbond/Redpoint" target="_blank">Digital Bond's ICS Enumeration Tools</a>
         </td>
         <td>
