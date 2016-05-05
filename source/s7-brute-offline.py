@@ -1,4 +1,6 @@
 """
+As posted on: http://pastebin.com/0G9Q2k6y
+
 File: s7-brute-offline.py
 Desc: offline password bruteforsing based on challenge-response data, extracted from auth traffic dump file
 
