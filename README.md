@@ -85,10 +85,10 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="/source/s7-brute-offline.py" target="_blank">S7 Password Bruteforcer</a>
+            <a href="/source/s7-cracker.py" target="_blank">S7 Password Bruteforcer</a>
         </td>
         <td>
-            A tool to bruteforce the password used by S7 instances from a PCAP. Created by SCADAStrangelove.
+            A tool to bruteforce the password used by S7 instances from a PCAP using a dictionary. [Original](/source/s7-brute-offline.py) created by SCADAStrangelove.
         </td> 
     </tr>
     <tr>
