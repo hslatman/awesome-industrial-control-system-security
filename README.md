@@ -36,6 +36,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/sourceperl/mbtget" target="_blank">mbtget</a>
+        </td>
+        <td>
+            mbtget - Simple perl script for make some modbus transaction from the command line.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/enddo/smod" target="_blank">MODBUS Penetration Testing Framework</a>
         </td>
         <td>
