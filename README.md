@@ -52,6 +52,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="http://modbuspal.sourceforge.net/" target="_blank">ModbusPal</a>
+        </td>
+        <td>
+            ModbusPal is a MODBUS slave simulator. Its purpose is to offer an easy to use interface with the capabilities to reproduce complex and realistic MODBUS environments.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/moki-ics/modscan" target="_blank">ModScan</a>
         </td>
         <td>
