@@ -232,6 +232,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://sourceforge.net/projects/s7commwireshark/files/Sample-captures/" target="_blank">S7 PCAP samples</a>
+        </td>
+        <td>
+            Sample files for Wireshark S7 protocol dissector plugin.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/scadastrangelove/SCADAPASS" target="_blank">SCADAPASS</a>
         </td>
         <td>
