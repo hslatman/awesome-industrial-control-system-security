@@ -101,6 +101,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="http://snap7.sourceforge.net/" target="_blank">Snap7</a>
+        </td>
+        <td>
+            Snap7 is an open source, 32/64 bit, multi-platform Ethernet communication suite for interfacing natively with Siemens S7 PLCs. The new CPUs 1200/1500, the old S7200, the small LOGO 0BA7/0BA8 and SINAMICS Drives are also partially supported.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="/source/s7-cracker.py" target="_blank">S7 Password Bruteforcer</a>
         </td>
         <td>
