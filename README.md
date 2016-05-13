@@ -68,6 +68,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://sourceforge.net/projects/nettoplcsim/" target="_blank">NetToPLCSim</a>
+        </td>
+        <td>
+            TCP/IP-Network extension for the PLC simulation software Siemens PLCSim.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.automatak.com/opendnp3/" target="_blank">Opendnp3</a>
         </td>
         <td>
