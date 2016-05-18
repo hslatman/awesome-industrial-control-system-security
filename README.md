@@ -339,6 +339,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="http://www.amazon.com/Power-System-SCADA-Smart-Grids/dp/148222674X" target="_blank">Power System SCADA and Smart Grids</a>
+        </td>
+        <td>
+            The book brings together in one concise volume the fundamentals and possible application functions of power system supervisory control and data acquisition (SCADA). Not security-oriented and geared towards power systems, but a good primer into SCADA nonetheless.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="http://csrc.nist.gov/publications/nistpubs/800-82/SP800-82-final.pdf" target="_blank">SP 800-82</a>
         </td>
         <td>
