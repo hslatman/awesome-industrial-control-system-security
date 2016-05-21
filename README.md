@@ -331,6 +331,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="http://www.isaca.org/Journal/archives/2014/Volume-1/Documents/SCADA-Cybersecurity-Framework_joa_Eng_0114.pdf" target="_blank">SCADA Cybersecurity Framework</a>
+        </td>
+        <td>
+            Paper describing what a SCADA Cyber Security framework should consist of.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.amazon.com/Industrial-Network-Security-Second-Edition/dp/0124201148/ref=sr_1_3?ie=UTF8&qid=1414970315&sr=8-3&keywords=industrial+network+security" target="_blank">Industrial Network Security, Second Edition</a>
         </td>
         <td>
