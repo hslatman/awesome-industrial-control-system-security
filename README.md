@@ -361,6 +361,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             The Guide to Industrial Control Systems (ICS) Security by NIST.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.sans.org/reading-room/whitepapers/ICS/industrial-control-system-cyber-kill-chain-36297" target="_blank">The Industrial Control System Cyber Kill Chain</a>
+        </td>
+        <td>
+            This SANS paper describes the ICS Cyber Kill Chain. It tailors the Lockheed Martin Kill Chain to typical, two phase attacks on ICS systems. 
+        </td> 
+    </tr>
 </table>
 
 ## License
