@@ -54,6 +54,15 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/scy-phy/minicps" target="_blank">MiniCPS</a>
+        </td>
+        <td>
+            MiniCPS: A toolkit for security research on Cyber-Physical
+            Systems from Singapore University of Technology and Design (SUTD).
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/enddo/smod" target="_blank">MODBUS Penetration Testing Framework</a>
         </td>
         <td>
