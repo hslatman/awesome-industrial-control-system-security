@@ -103,6 +103,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/SCADACS/PLCinject" target="_blank">PLCinject</a>
+        </td>
+        <td>
+            PLCinject can be used to inject code into PLCs.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/yanlinlin82/plcscan" target="_blank">plcscan</a>
         </td>
         <td>
