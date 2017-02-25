@@ -310,6 +310,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             Siemens provides alerts for its industrial systems via this page and RSS feed.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="http://www.nerc.com/pa/rrm/bpsa/Pages/Alerts.aspx" target="_blank">North American Electric Reliability Corporation (NERC) Alerts</a>
+        </td>
+        <td>
+            NERC provides alerts for Bulk Electric System (BES) security advisories and industry recommendations.
+        </td> 
+    </tr>
 </table>
 
 
