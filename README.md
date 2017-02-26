@@ -431,6 +431,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             Brian Douglas YouTube video series where he covers a wide range of topics on control systems in a very easy to process way.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/user/plcprofessor" target="_blank">The PLC Professor</a>
+        </td>
+        <td>
+            The PLC Professor and his website plcprofessor.com contains a lot of great resources for learning what programmable logic controllers (PLCs) and other types of control systems and their logic are and how they work.
+        </td> 
+    </tr>
 </table>    
 
 ## License
