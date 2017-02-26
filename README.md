@@ -341,6 +341,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             Central repository for the presentation material for the SANS ICS Summits held worldwide. 
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="http://www.icscybersecurityconference.com/" target="_blank">SANS ICS Cybersecurity Conference (WeissCon)</a>
+        </td>
+        <td>
+            Affectionately known as WeissCon after it’s founder Joe Weiss, the conference is now owned and operated by SecurityWeek and usually runs in October at different locations each year in the US. 
+        </td> 
+    </tr>
 </table>
 
 ## Literature
