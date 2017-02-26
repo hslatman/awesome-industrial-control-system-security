@@ -394,6 +394,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             This SANS paper describes the ICS Cyber Kill Chain. It tailors the Lockheed Martin Kill Chain to typical, two phase attacks on ICS systems. 
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://ics.sans.org/media/An-Abbreviated-History-of-Automation-and-ICS-Cybersecurity.pdf" target="_blank">An Abbreviated History of Automation, Industrial Control Systems, and Cybersecurity</a>
+        </td>
+        <td>
+            This SANS paper looks at the background on ICS cybersecurity. Well worth the read to make sure you understand many of the events that have occurred over the past twenty years and how they’ve inspired security in ICS today. 
+        </td> 
+    </tr>
 </table>
 
 ## Introduction to ICS, SCADA, & PLCs
