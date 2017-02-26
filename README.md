@@ -396,6 +396,19 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
 </table>
 
+## Introduction to ICS, SCADA, & PLCs
+
+<table>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=VQLRVjEFRGI" target="_blank">Control System Basics</a>
+        </td>
+        <td>
+            YouTube video explaining control system basics including the type of logic these systems use to sense and create physical changes to take action upon.
+        </td> 
+    </tr>
+</table>    
+
 ## License
 
 Licensed under [Apache License 2.0](LICENSE).
