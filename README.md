@@ -404,15 +404,23 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://www.youtube.com/watch?v=VQLRVjEFRGI" target="_blank">Control System Basics</a>
         </td>
         <td>
-            YouTube video explaining control system basics including the type of logic these systems use to sense and create physical changes to take action upon.
+            YouTube video explaining control system basics including the type of logic these systems use to sense and create physical changes to take action upon.
         </td> 
     </tr>
-        <tr>
+    <tr>
         <td>
             <a href="https://www.youtube.com/watch?v=vv2CoTiaWPI" target="_blank">SCADA Systems - Utility 101 Session with Rusty Wiliiams</a>
         </td>
         <td>
-            Utility industry professional Rusty Williams explains SCADA from an electric utility perspective.
+            Utility industry professional Rusty Williams explains SCADA from an electric utility perspective.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/user/ControlLectures" target="_blank">Control System Lectures</a>
+        </td>
+        <td>
+            Brian Douglas YouTube video series where he covers a wide range of topics on control systems in a very easy to process way.
         </td> 
     </tr>
 </table>    
