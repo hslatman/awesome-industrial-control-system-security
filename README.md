@@ -356,6 +356,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://www.amazon.com/Handbook-Control-Systems-Security-Second/dp/1498717071/ref=sr_1_5?s=books&ie=UTF8&qid=1472416488&sr=1-5&keywords=scada+security" target="_blank">Handbook of SCADA/Control Systems Security</a>
+        </td>
+        <td>
+            This comprehensive handbook covers fundamental security concepts, methodologies, and relevant information pertaining to supervisory control and data acquisition (SCADA) and other industrial control systems used in utility and industrial facilities worldwide.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.isaca.org/Journal/archives/2014/Volume-1/Documents/SCADA-Cybersecurity-Framework_joa_Eng_0114.pdf" target="_blank">SCADA Cybersecurity Framework</a>
         </td>
         <td>
