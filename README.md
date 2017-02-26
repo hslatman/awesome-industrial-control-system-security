@@ -326,6 +326,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             ABB provides alerts for its cyber security incidents and software vulnerabilities.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="http://software.schneider-electric.com/support/cyber-security-updates/" target="_blank">Schneider Electric Cybersecurity Alerts and Notifications</a>
+        </td>
+        <td>
+            Get the latest updates and alerts on Cyber Security and Compliance from Schneider Electric Software.
+        </td> 
+    </tr>
 </table>
 
 
