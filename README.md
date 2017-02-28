@@ -503,6 +503,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             John Rinaldi of Real Time Automation describes MODBUS-TCP.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=DL_zIjhCEpU" target="_blank">How Ethernet TCP/IP is Used by Industrial Protocols</a>
+        </td>
+        <td>
+            John Rinaldi of Real Time Automation describes Ethernet TCP/IP.
+        </td> 
+    </tr>
 </table>    
 
 ## License
