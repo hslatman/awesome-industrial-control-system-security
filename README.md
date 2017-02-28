@@ -471,6 +471,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             The PLC Professor and his website plcprofessor.com contains a lot of great resources for learning what programmable logic controllers (PLCs) and other types of control systems and their logic are and how they work.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=2DQdEHvnqvI" target="_blank">Serial Communications RS232 and RS485</a>
+        </td>
+        <td>
+            John Rinaldi of Real Time Automation describes Serial communications RS232 and RS485.
+        </td> 
+    </tr>
 </table>    
 
 ## License
