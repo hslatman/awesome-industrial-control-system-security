@@ -372,6 +372,15 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
+            <a href="https://scadahacker.com/library/index.html" target="_blank">Library of Resources for
+Industrial Control System Cyber Security</a>
+        </td>
+        <td>
+            SCADAhacker.com's ultimate list of ICS/SCADA cybersecurity resources.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.amazon.com/Applied-Cyber-Security-Smart-Grid/dp/1597499986/" target="_blank">Applied Cyber Security and the Smart Grid</a>
         </td>
         <td>
