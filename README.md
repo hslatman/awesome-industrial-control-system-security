@@ -479,6 +479,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             John Rinaldi of Real Time Automation describes Serial communications RS232 and RS485.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=OvRD2UvrHjE" target="_blank">All You Need To Know About MODBUS-RTU</a>
+        </td>
+        <td>
+            John Rinaldi of Real Time Automation describes MODBUS-RTU.
+        </td> 
+    </tr>
 </table>    
 
 ## License
