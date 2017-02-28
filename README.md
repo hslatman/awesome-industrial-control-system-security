@@ -495,6 +495,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             John Rinaldi of Real Time Automation describes MODBUS data structures.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=E1nsgukeKKA" target="_blank">All You Need to Know About MODBUS-TCP</a>
+        </td>
+        <td>
+            John Rinaldi of Real Time Automation describes MODBUS-TCP.
+        </td> 
+    </tr>
 </table>    
 
 ## License
