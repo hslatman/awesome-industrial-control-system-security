@@ -487,6 +487,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             John Rinaldi of Real Time Automation describes MODBUS-RTU.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=8FYFai21JPA" target="_blank">MODBUS Data Structures</a>
+        </td>
+        <td>
+            John Rinaldi of Real Time Automation describes MODBUS data structures.
+        </td> 
+    </tr>
 </table>    
 
 ## License
