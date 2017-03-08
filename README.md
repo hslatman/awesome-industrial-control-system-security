@@ -443,6 +443,14 @@ Industrial Control System Cyber Security</a>
             This SANS paper looks at the background on ICS cybersecurity. Well worth the read to make sure you understand many of the events that have occurred over the past twenty years and how they’ve inspired security in ICS today. 
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="http://www.controleng.com/networking-security/cyber-security.html" target="_blank">Control Engineering - Networking and Security - CyberSecurity</a>
+        </td>
+        <td>
+            Control Engineering magazine's cybersecurity news and literature. 
+        </td> 
+    </tr>
 </table>
 
 ## Introduction to ICS, SCADA, & PLCs
