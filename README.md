@@ -389,6 +389,14 @@ Industrial Control System Cyber Security</a>
     </tr>
     <tr>
         <td>
+            <a href="https://documents.trendmicro.com/assets/wp/wp-hacker-machine-interface.pdf" target="_blank">Hacker Machine Interface - The State of SCADA HMI Vulnerabilities</a>
+        </td>
+        <td>
+            A TrendLabs Research Paper from the Trend Micro Zero Day Initiative Team about the current state of SCADA and HMI security.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.amazon.com/Handbook-Control-Systems-Security-Second/dp/1498717071/ref=sr_1_5?s=books&ie=UTF8&qid=1472416488&sr=1-5&keywords=scada+security" target="_blank">Handbook of SCADA/Control Systems Security</a>
         </td>
         <td>
