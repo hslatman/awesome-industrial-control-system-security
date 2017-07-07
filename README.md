@@ -464,6 +464,14 @@ Industrial Control System Cyber Security</a>
 ## Introduction to ICS, SCADA, & PLCs
 
 <table>
+<tr>
+        <td>
+            <a href="http://plc-training.org/plc-network-to-hmi-scada.html" target="_blank">PLC Training Org</a>
+        </td>
+        <td>
+            Site organizes all essential topics related to PLC training up to SCADA systems. While security is interwoven within the 10 learning phases, this is a great security article on the site for those just starting out.
+        </td> 
+    </tr>
     <tr>
         <td>
             <a href="https://www.youtube.com/watch?v=VQLRVjEFRGI" target="_blank">Control System Basics</a>
