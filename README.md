@@ -429,10 +429,10 @@ Industrial Control System Cyber Security</a>
     </tr>
     <tr>
         <td>
-            <a href="http://csrc.nist.gov/publications/nistpubs/800-82/SP800-82-final.pdf" target="_blank">SP 800-82</a>
+            <a href="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r2.pdf" target="_blank">NIST SP 800-82, Revision 2</a>
         </td>
         <td>
-            The Guide to Industrial Control Systems (ICS) Security by NIST.
+            Guide to Industrial Control Systems (ICS) Security by NIST.
         </td> 
     </tr>
     <tr>
