@@ -215,7 +215,6 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://dtag-dev-sec.github.io/mediator/feature/2016/03/11/t-pot-16.03.html" target="_blank">T-Pot</a>
         </td>
         <td>
-        
             T-Pot is a combination of several honeypots that run in docker containers. Suricata and the ELK stack are used for security monitoring and visualization.
             Amongst others, it features Conpot and eMobility, which are an ICS and next generation transport infrastructure honeypots.
         </td> 
