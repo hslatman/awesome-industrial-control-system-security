@@ -342,10 +342,10 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
-            <a href="https://4sics.se/" target="_blank">4SICS</a>
+            <a href="https://cs3sthlm.se/" target="_blank">CS3STHLM</a>
         </td>
         <td>
-            4SICS – Stockholm annual, international summit on cyber-security in SCADA and Industrial Control Systems.
+             the Stockholm international summit on Cyber Security in SCADA and Industrial Control Systems - is an annual summit that gather the most important stakeholders across critical processes and industries. CS3STHLM has been organized since 2014, and has quickly become the premier ICS Security Summit in Northern Europe.
         </td> 
     </tr>
     <tr>
