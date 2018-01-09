@@ -350,6 +350,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://cs3sthlm.se/" target="_blank">CS4CA</a>
+        </td>
+        <td>
+             Cyber Security for Critical Assets is a global series of summits focusing on cyber security for critical infrastructure.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="http://ics.sans.org/ics-library/summit-archives" target="_blank">SANS ICS Summit Archives</a>
         </td>
         <td>
