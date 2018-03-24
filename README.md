@@ -340,6 +340,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="http://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/" target="_blank">A Collection of Resources for Getting Started in ICS/SCADA Cybersecurity</a>
+        </td>
+        <td>
+            Robert M. Lee's thoughts on some good resources on ICS & SCADA security.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.isaca.org/Journal/archives/2014/Volume-1/Documents/SCADA-Cybersecurity-Framework_joa_Eng_0114.pdf" target="_blank">SCADA Cybersecurity Framework</a>
         </td>
         <td>
