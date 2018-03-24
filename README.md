@@ -280,6 +280,15 @@ Feel free to [contribute](CONTRIBUTING.md).
             The famous SCADA StrangeLove Default/Hardcoded Passwords List.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/ICSrepo/TRISIS-TRITON-HATMAN" target="_blank">TRISIS/TRITON/HATMAN malware repository</a>
+        </td>
+        <td>
+            Repository containting original and decompiled files of TRISIS/TRITON/HATMAN malware targeting Triconex Safety Instrumented System (SIS) controllers.
+        </td> 
+    </tr>
+    
 </table>
 
 ## Feeds and News
