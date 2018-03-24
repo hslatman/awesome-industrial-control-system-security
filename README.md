@@ -103,6 +103,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/SCADACS/PLCinject" target="_blank">PLCinject</a>
+        </td>
+        <td>
+            PLCinject can be used to inject code into PLCs.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/yanlinlin82/plcscan" target="_blank">plcscan</a>
         </td>
         <td>
@@ -207,7 +215,6 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://dtag-dev-sec.github.io/mediator/feature/2016/03/11/t-pot-16.03.html" target="_blank">T-Pot</a>
         </td>
         <td>
-        
             T-Pot is a combination of several honeypots that run in docker containers. Suricata and the ELK stack are used for security monitoring and visualization.
             Amongst others, it features Conpot and eMobility, which are an ICS and next generation transport infrastructure honeypots.
         </td> 
@@ -302,6 +309,30 @@ Feel free to [contribute](CONTRIBUTING.md).
             Siemens provides alerts for its industrial systems via this page and RSS feed.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="http://www.nerc.com/pa/rrm/bpsa/Pages/Alerts.aspx" target="_blank">North American Electric Reliability Corporation (NERC) Alerts</a>
+        </td>
+        <td>
+            NERC provides alerts for Bulk Electric System (BES) security advisories and industry recommendations.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="http://new.abb.com/about/technology/cyber-security/alerts-and-notifications" target="_blank">ABB Cybersecurity Alerts and Notifications</a>
+        </td>
+        <td>
+            ABB provides alerts for its cyber security incidents and software vulnerabilities.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="http://software.schneider-electric.com/support/cyber-security-updates/" target="_blank">Schneider Electric Cybersecurity Alerts and Notifications</a>
+        </td>
+        <td>
+            Get the latest updates and alerts on Cyber Security and Compliance from Schneider Electric Software.
+        </td> 
+    </tr>
 </table>
 
 
@@ -311,10 +342,18 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
-            <a href="https://4sics.se/" target="_blank">4SICS</a>
+            <a href="https://cs3sthlm.se/" target="_blank">CS3STHLM</a>
         </td>
         <td>
-            4SICS – Stockholm annual, international summit on cyber-security in SCADA and Industrial Control Systems.
+             the Stockholm international summit on Cyber Security in SCADA and Industrial Control Systems - is an annual summit that gather the most important stakeholders across critical processes and industries. CS3STHLM has been organized since 2014, and has quickly become the premier ICS Security Summit in Northern Europe.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://cs3sthlm.se/" target="_blank">CS4CA</a>
+        </td>
+        <td>
+             Cyber Security for Critical Assets is a global series of summits focusing on cyber security for critical infrastructure.
         </td> 
     </tr>
     <tr>
@@ -325,11 +364,28 @@ Feel free to [contribute](CONTRIBUTING.md).
             Central repository for the presentation material for the SANS ICS Summits held worldwide. 
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="http://www.icscybersecurityconference.com/" target="_blank">SANS ICS Cybersecurity Conference (WeissCon)</a>
+        </td>
+        <td>
+            Affectionately known as WeissCon after it’s founder Joe Weiss, the conference is now owned and operated by SecurityWeek and usually runs in October at different locations each year in the US. 
+        </td> 
+    </tr>
 </table>
 
 ## Literature
 
 <table>
+    <tr>
+        <td>
+            <a href="https://scadahacker.com/library/index.html" target="_blank">Library of Resources for
+Industrial Control System Cyber Security</a>
+        </td>
+        <td>
+            SCADAhacker.com's ultimate list of ICS/SCADA cybersecurity resources.
+        </td> 
+    </tr>
     <tr>
         <td>
             <a href="http://www.amazon.com/Applied-Cyber-Security-Smart-Grid/dp/1597499986/" target="_blank">Applied Cyber Security and the Smart Grid</a>
@@ -344,6 +400,22 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             Robert M. Lee's thoughts on some good resources on ICS & SCADA security.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://documents.trendmicro.com/assets/wp/wp-hacker-machine-interface.pdf" target="_blank">Hacker Machine Interface - The State of SCADA HMI Vulnerabilities</a>
+        </td>
+        <td>
+            A TrendLabs Research Paper from the Trend Micro Zero Day Initiative Team about the current state of SCADA and HMI security.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.amazon.com/Handbook-Control-Systems-Security-Second/dp/1498717071/ref=sr_1_5?s=books&ie=UTF8&qid=1472416488&sr=1-5&keywords=scada+security" target="_blank">Handbook of SCADA/Control Systems Security</a>
+        </td>
+        <td>
+            This comprehensive handbook covers fundamental security concepts, methodologies, and relevant information pertaining to supervisory control and data acquisition (SCADA) and other industrial control systems used in utility and industrial facilities worldwide.
         </td> 
     </tr>
     <tr>
@@ -372,10 +444,10 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="http://csrc.nist.gov/publications/nistpubs/800-82/SP800-82-final.pdf" target="_blank">SP 800-82</a>
+            <a href="http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r2.pdf" target="_blank">NIST SP 800-82, Revision 2</a>
         </td>
         <td>
-            The Guide to Industrial Control Systems (ICS) Security by NIST.
+            Guide to Industrial Control Systems (ICS) Security by NIST.
         </td> 
     </tr>
     <tr>
@@ -386,7 +458,108 @@ Feel free to [contribute](CONTRIBUTING.md).
             This SANS paper describes the ICS Cyber Kill Chain. It tailors the Lockheed Martin Kill Chain to typical, two phase attacks on ICS systems. 
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://ics.sans.org/media/An-Abbreviated-History-of-Automation-and-ICS-Cybersecurity.pdf" target="_blank">An Abbreviated History of Automation, Industrial Control Systems, and Cybersecurity</a>
+        </td>
+        <td>
+            This SANS paper looks at the background on ICS cybersecurity. Well worth the read to make sure you understand many of the events that have occurred over the past twenty years and how they’ve inspired security in ICS today. 
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.controleng.com/networking-security/cyber-security.html" target="_blank">Control Engineering - Networking and Security - CyberSecurity</a>
+        </td>
+        <td>
+            Control Engineering magazine's cybersecurity news and literature. 
+        </td> 
+    </tr>
 </table>
+
+## Introduction to ICS, SCADA, & PLCs
+
+<table>
+<tr>
+        <td>
+            <a href="http://plc-training.org/plc-network-to-hmi-scada.html" target="_blank">PLC Training Org</a>
+        </td>
+        <td>
+            Site organizes all essential topics related to PLC training up to SCADA systems. While security is interwoven within the 10 learning phases, this is a great security article on the site for those just starting out.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=VQLRVjEFRGI" target="_blank">Control System Basics</a>
+        </td>
+        <td>
+            YouTube video explaining control system basics including the type of logic these systems use to sense and create physical changes to take action upon.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=vv2CoTiaWPI" target="_blank">SCADA Systems - Utility 101 Session with Rusty Wiliiams</a>
+        </td>
+        <td>
+            Utility industry professional Rusty Williams explains SCADA from an electric utility perspective.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/user/ControlLectures" target="_blank">Control System Lectures</a>
+        </td>
+        <td>
+            Brian Douglas YouTube video series where he covers a wide range of topics on control systems in a very easy to process way.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/user/plcprofessor" target="_blank">The PLC Professor</a>
+        </td>
+        <td>
+            The PLC Professor and his website plcprofessor.com contains a lot of great resources for learning what programmable logic controllers (PLCs) and other types of control systems and their logic are and how they work.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=2DQdEHvnqvI" target="_blank">Serial Communications RS232 and RS485</a>
+        </td>
+        <td>
+            John Rinaldi of Real Time Automation describes Serial communications RS232 and RS485.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=OvRD2UvrHjE" target="_blank">All You Need To Know About MODBUS-RTU</a>
+        </td>
+        <td>
+            John Rinaldi of Real Time Automation describes MODBUS-RTU.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=8FYFai21JPA" target="_blank">MODBUS Data Structures</a>
+        </td>
+        <td>
+            John Rinaldi of Real Time Automation describes MODBUS data structures.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=E1nsgukeKKA" target="_blank">All You Need to Know About MODBUS-TCP</a>
+        </td>
+        <td>
+            John Rinaldi of Real Time Automation describes MODBUS-TCP.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/watch?v=DL_zIjhCEpU" target="_blank">How Ethernet TCP/IP is Used by Industrial Protocols</a>
+        </td>
+        <td>
+            John Rinaldi of Real Time Automation describes Ethernet TCP/IP.
+        </td> 
+    </tr>
+</table>    
 
 ## License
 
