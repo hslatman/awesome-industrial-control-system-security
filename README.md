@@ -46,6 +46,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/dark-lbp/isf" target="_blank">ISF</a>
+        </td>
+        <td>
+            The Industrial Exploitation Framework (ISF) is an exploitation framework similar to Metasploit written in Python. It is based on the open source Routersploit tool. It contains exploits for several types of controllers, such as QNX, Siemens and Schneider devices and includes several scanners.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/sourceperl/mbtget" target="_blank">mbtget</a>
         </td>
         <td>
