@@ -54,6 +54,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/w3h/isf" target="_blank">ISEF</a>
+        </td>
+        <td>
+            The Industrial Security Exploitation Framework (ISEF) is an exploitation framework based on the Equation Group Fuzzbunch toolkit as released by Shadow Brokers. It's developed by the <a href="http://www.icsmaster.org/" target="_blank">ICSMASTER Security Team</a>.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/sourceperl/mbtget" target="_blank">mbtget</a>
         </td>
         <td>
