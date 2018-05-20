@@ -144,6 +144,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/mssabr01/sixnet-tools" target="_blank">sixnet-tools</a>
+        </td>
+        <td>
+            Tool for exploiting sixnet RTUs. This simple command line interface allows using undocumneted function codes to take root access on certain sixnet family industrial control devices. Take control of the underlying Linux OS.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="http://snap7.sourceforge.net/" target="_blank">Snap7</a>
         </td>
         <td>
