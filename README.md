@@ -147,7 +147,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://github.com/mssabr01/sixnet-tools" target="_blank">sixnet-tools</a>
         </td>
         <td>
-            Tool for exploiting sixnet RTUs. This simple command line interface allows using undocumneted function codes to take root access on certain sixnet family industrial control devices. Take control of the underlying Linux OS.
+            Tool for exploiting Sixnet RTUs. This simple command line interface allows using undocumented function codes to gain root access anc control the underlying Linux OS on certain Sixnet family industrial control devices.
         </td> 
     </tr>
     <tr>
