@@ -282,6 +282,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/automayt/ICS-pcap" target="_blank">ICS PCAP Collection by Jason Smith</a>
+        </td>
+        <td>
+            A collection of PCAPs for various ICS utilities and protocols.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://ics-radar.shodan.io/" target="_blank">ICS Radar</a>
         </td>
         <td>
