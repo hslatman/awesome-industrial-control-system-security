@@ -144,6 +144,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/dw2102/S7Comm-Analyzer" target="_blank">S7Comm-Analyzer</a>
+        </td>
+        <td>
+            A plugin for Bro that parses S7comm protocol data traffic.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/0xICF/SCADAShutdownTool" target="_blank">SCADAShutdownTool</a>
         </td>
         <td>
