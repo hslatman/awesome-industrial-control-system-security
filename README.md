@@ -144,6 +144,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/dw2102/S7Comm-Analyzer" target="_blank">S7Comm-Analyzer</a>
+        </td>
+        <td>
+            A plugin for Bro that parses S7comm protocol data traffic.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/0xICF/SCADAShutdownTool" target="_blank">SCADAShutdownTool</a>
         </td>
         <td>
@@ -270,6 +278,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             A map created from data gathered by Shodan showing ICS devices. Data is made available for further analysis.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/automayt/ICS-pcap" target="_blank">ICS PCAP Collection by Jason Smith</a>
+        </td>
+        <td>
+            A collection of PCAPs for various ICS utilities and protocols.
         </td> 
     </tr>
     <tr>
