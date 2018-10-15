@@ -168,6 +168,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/klsecservices/s7scan" target="_blank">s7scan</a>
+        </td>
+        <td>
+            A tool written in Python that scans networks, enumerates Siemens PLCs and gathers basic information about them, such as PLC firmware and hardware version, network configuration and security parameters.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="/source/s7-cracker.py" target="_blank">S7 Password Bruteforcer</a>
         </td>
         <td>
