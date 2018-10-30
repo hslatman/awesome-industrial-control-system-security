@@ -46,6 +46,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/fireeye/ics_mem_collect" target="_blank">ics_mem_collect</a>
+        </td>
+        <td>
+            Memory collector for GE D20MX. The project itself can be extended to work with other devices.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/dark-lbp/isf" target="_blank">ISF</a>
         </td>
         <td>
