@@ -539,6 +539,14 @@ Industrial Control System Cyber Security</a>
             Control Engineering magazine's cybersecurity news and literature. 
         </td> 
     </tr>
+    <tr>
+       <td>
+           <a href="https://www.fireeye.com/blog/threat-research/2019/09/ontology-understand-assess-operational-technology-cyber-incidents.html" target="_blank">Operational Technology Cyber Security Incidents Ontology (OT-CSIO)</a>
+       </td>
+       <td>
+           OT-CSIO, created by FireEye, is an ontology to understand, cross-compare and assess cyber security incidents related to operational technology. It provides guidance for assessing risks and helps making informed decisions.
+       </td>
+   </tr>
 </table>
 
 ## Introduction to ICS, SCADA, & PLCs
