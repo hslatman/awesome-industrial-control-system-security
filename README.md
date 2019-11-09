@@ -70,6 +70,22 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/woj-ciech/kamerka" target="_blank">ꓘamerka</a>
+        </td>
+        <td>
+            The script creates a map of cameras, printers, and other (industrial) internet of things devices.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/woj-ciech/Kamerka-GUI" target="_blank">ꓘamerka GUI</a>
+        </td>
+        <td>
+            Ultimate Internet of Things/Industrial Control Systems reconnaissance tool. 
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/sourceperl/mbtget" target="_blank">mbtget</a>
         </td>
         <td>
