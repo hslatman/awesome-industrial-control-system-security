@@ -570,7 +570,15 @@ Industrial Control System Cyber Security</a>
        <td>
            OT-CSIO, created by FireEye, is an ontology to understand, cross-compare and assess cyber security incidents related to operational technology. It provides guidance for assessing risks and helps making informed decisions.
        </td>
-   </tr>
+    </tr>
+    <tr>
+       <td>
+           <a href="https://www.newnettechnologies.com/downloads/Implementation-Guide-for-ICS-using-the-CIS-Controls.pdf" target="_blank">CIS Controls Implementation Guide for Industrial Control Systems - Version 7</a>
+       </td>
+       <td>
+            This document provides guidance on how to apply the security best practices found in CIS Controls Version 7.1 to ICS environments.
+       </td>
+    </tr>
 </table>
 
 
