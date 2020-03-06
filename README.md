@@ -70,14 +70,6 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/woj-ciech/kamerka" target="_blank">ꓘamerka</a>
-        </td>
-        <td>
-            The script creates a map of cameras, printers, and other (industrial) internet of things devices.
-        </td> 
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/woj-ciech/Kamerka-GUI" target="_blank">ꓘamerka GUI</a>
         </td>
         <td>
@@ -468,6 +460,14 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
+            <a href="https://collaborate.mitre.org/attackics/index.php/Main_Page" target="_blank">ATT&CK® for Industrial Control Systems by MITRE</a>
+        </td>
+        <td>
+            ATT&CK for ICS is a knowledge base useful for describing the actions an adversary may take while operating within an ICS network.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://scadahacker.com/library/index.html" target="_blank">Library of Resources for
 Industrial Control System Cyber Security</a>
         </td>
@@ -570,7 +570,23 @@ Industrial Control System Cyber Security</a>
        <td>
            OT-CSIO, created by FireEye, is an ontology to understand, cross-compare and assess cyber security incidents related to operational technology. It provides guidance for assessing risks and helps making informed decisions.
        </td>
-   </tr>
+    </tr>
+    <tr>
+       <td>
+           <a href="https://www.newnettechnologies.com/downloads/Implementation-Guide-for-ICS-using-the-CIS-Controls.pdf" target="_blank">CIS Controls Implementation Guide for Industrial Control Systems - Version 7</a>
+       </td>
+       <td>
+            This document provides guidance on how to apply the security best practices found in CIS Controls Version 7.1 to ICS environments.
+       </td>
+    </tr>
+    <tr>
+       <td>
+           <a href="https://www.nrdcs.lt/file/repository/resources/CIS_Controls_IoT_Companion_Guide.pdf" target="_blank">CIS Controls Internet of Things Companion Guide - Version 7.1</a>
+       </td>
+       <td>
+            The objective of this document is to have broad applicability across sectors. IoT affects all areas of computingacross multiple sectors, such as healthcare, aviation, public safety, and energy. This has led to sector-specific IoT security guidance, but this document is purposefully sector-agnostic.
+       </td>
+    </tr>
 </table>
 
 
@@ -676,6 +692,14 @@ Industrial Control System Cyber Security</a>
         </td>
         <td>
             Graphical Realism Framework for Industrial Control Simulations (GRFICS) is a framework for realistic industrial control simulations that uses Unity 3D game engine for simulating industrial control systems. GRFICS provides users with a full virtual industrial control system (ICS) network to practice common attacks including command injection, man-in-the-middle, and buffer overflows, and visually see the impact of their attacks in the 3D visualization. Users can also practice their defensive skills by properly segmenting the network with strong firewall rules, or writing intrusion detection rules.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/channel/UCUKKQwBQZczpYzETkZNxi-w" target="_blank">RealPars</a>
+        </td>
+        <td>
+            The RealPars YouTube channel has many videos on industrial automation and PLC programming.
         </td> 
     </tr>
 </table>    
