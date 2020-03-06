@@ -694,6 +694,14 @@ Industrial Control System Cyber Security</a>
             Graphical Realism Framework for Industrial Control Simulations (GRFICS) is a framework for realistic industrial control simulations that uses Unity 3D game engine for simulating industrial control systems. GRFICS provides users with a full virtual industrial control system (ICS) network to practice common attacks including command injection, man-in-the-middle, and buffer overflows, and visually see the impact of their attacks in the 3D visualization. Users can also practice their defensive skills by properly segmenting the network with strong firewall rules, or writing intrusion detection rules.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.youtube.com/channel/UCUKKQwBQZczpYzETkZNxi-w" target="_blank">RealPars</a>
+        </td>
+        <td>
+            The RealPars YouTube channel has many videos on industrial automation and PLC programming.
+        </td> 
+    </tr>
 </table>    
 
 ## License
