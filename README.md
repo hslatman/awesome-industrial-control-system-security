@@ -579,6 +579,14 @@ Industrial Control System Cyber Security</a>
             This document provides guidance on how to apply the security best practices found in CIS Controls Version 7.1 to ICS environments.
        </td>
     </tr>
+    <tr>
+       <td>
+           <a href="https://www.nrdcs.lt/file/repository/resources/CIS_Controls_IoT_Companion_Guide.pdf" target="_blank">CIS Controls Internet of Things Companion Guide - Version 7.1</a>
+       </td>
+       <td>
+            The objective of this document is to have broad applicability across sectors. IoT affects all areas of computingacross multiple sectors, such as healthcare, aviation, public safety, and energy. This has led to sector-specific IoT security guidance, but this document is purposefully sector-agnostic.
+       </td>
+    </tr>
 </table>
 
 
