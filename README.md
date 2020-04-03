@@ -364,6 +364,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             Affectionately known as WeissCon after it’s founder Joe Weiss, the conference is now owned and operated by SecurityWeek and usually runs in October at different locations each year in the US. 
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://ics.kaspersky.com/conference/" target="_blank">Kaspersky Industrial Cybersecurity conference (KICS con)</a>
+        </td>
+        <td>
+            An annual international industrial cybersecurity conference run by Kaspersky.  
+        </td> 
+    </tr>
 </table>
 
 ## Literature
