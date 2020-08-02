@@ -363,6 +363,19 @@ Feel free to [contribute](CONTRIBUTING.md).
     
 </table>
 
+## Frameworks
+
+<table>
+    <tr>
+        <td>
+	    <a href="https://github.com/nathanpocock/I-ISMS" target="_blank">I-ISMS</a>
+        </td>
+        <td>
+	    The Industrial Information Security Management System (I-ISMS) can be used to rapidly deploy an information security management program in an industrial setting. It provides templates for creating and implementing a program starting from the basics.
+        </td>
+    </tr>
+</table>
+
 ## Feeds and News
 
 <table>
