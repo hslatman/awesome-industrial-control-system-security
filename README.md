@@ -95,7 +95,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/enddo/smod" target="_blank">MODBUS Penetration Testing Framework</a>
+            <a href="https://github.com/0x0mar/smod" target="_blank">MODBUS Penetration Testing Framework</a>
         </td>
         <td>
             smod is a modular framework with every kind of diagnostic and offensive feature you could need in order to pentest modbus protocol. It is a full Modbus protocol implementation using Python and Scapy. The framework can be used to perform vulnerability assessments.
