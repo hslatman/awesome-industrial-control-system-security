@@ -222,6 +222,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions. It has support for many protocols used in ICS.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/otoriocyber/PCS7-Hardening-Tool" target="_blank">PCS7-Hardening-Tool</a>
+        </td>
+        <td>
+            A standalone PowerShell script that enumerates security issues on Siemens PCS 7 DCS servers, based on Siemens security guides. created by OTORIO
+        </td> 
+    </tr>
 </table>
 
 ## Distributions
