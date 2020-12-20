@@ -237,15 +237,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="http://www.samuraistfu.org/" target="_blank">SamuraiSTFU</a>
-        </td>
-        <td>
-            SamuraiSTFU takes the best in breed security tools for traditional network and web penetration testing, adds specialized tools for embedded and RF testing, and mixes in a healthy dose of energy sector context, documentation, and sample files, including emulators for SCADA, Smart Meters, and other types of energy sector systems to provide leverage a full test lab.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.controlthings.io/" target="_blank">ControlThings Platform</a>
+            <a href="https://www.controlthings.io/" target="_blank">ControlThings Platform(Previously SamuraiSTFU)</a>
         </td>
         <td>
             The ControlThings Platform is an open source linux distribution for ICS cyber security teams. It takes the best-in-breed security assessment tools for traditional IT infrastructures and adds specialized tools for embedded electronics, proprietary wireless, and a healthy dose of ICS specific assessment tools, both from the community and custom tools created by the ControlThings I/O teams.
