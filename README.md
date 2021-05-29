@@ -608,6 +608,14 @@ Industrial Control System Cyber Security</a>
 <table>
     <tr>
         <td>
+            <a href="https://github.com/Fortiphyd/GRFICSv2" target="_blank">GRFICSv2</a>
+        </td>
+        <td>
+            The second version of the Graphical Realism Framework for Industrial Control Simulations (GRFICS) is a framework for realistic industrial control simulations that uses Unity 3D game engine for simulating industrial control systems. GRFICS provides users with a full virtual industrial control system (ICS) network to practice common attacks including command injection, man-in-the-middle, and buffer overflows, and visually see the impact of their attacks in the 3D visualization. Users can also practice their defensive skills by properly segmenting the network with strong firewall rules, or writing intrusion detection rules. The first version can be found <a href="https://github.com/djformby/GRFICS" target="_blank">here</a>.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/hsainnos/LICSTER" target="_blank">LICSTER</a>
         </td>
         <td>
@@ -697,14 +705,6 @@ Industrial Control System Cyber Security</a>
         </td>
         <td>
             John Rinaldi of Real Time Automation describes Ethernet TCP/IP.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/Fortiphyd/GRFICSv2" target="_blank">GRFICSv2</a>
-        </td>
-        <td>
-            The second version of the Graphical Realism Framework for Industrial Control Simulations (GRFICS) is a framework for realistic industrial control simulations that uses Unity 3D game engine for simulating industrial control systems. GRFICS provides users with a full virtual industrial control system (ICS) network to practice common attacks including command injection, man-in-the-middle, and buffer overflows, and visually see the impact of their attacks in the 3D visualization. Users can also practice their defensive skills by properly segmenting the network with strong firewall rules, or writing intrusion detection rules. The first version can be found <a href="https://github.com/djformby/GRFICS" target="_blank">here</a>.
         </td> 
     </tr>
     <tr>
