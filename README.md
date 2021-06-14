@@ -65,7 +65,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://github.com/w3h/isf" target="_blank">ISEF</a>
         </td>
         <td>
-            The Industrial Security Exploitation Framework (ISEF) is an exploitation framework based on the Equation Group Fuzzbunch toolkit as released by Shadow Brokers. It's developed by the <a href="http://www.icsmaster.org/" target="_blank">ICSMASTER Security Team</a>.
+            The Industrial Security Exploitation Framework (ISEF) is an exploitation framework based on the Equation Group Fuzzbunch toolkit as released by Shadow Brokers. It's developed by the ICSMASTER Security Team.
         </td> 
     </tr>
     <tr>
@@ -127,10 +127,12 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://www.automatak.com/opendnp3/" target="_blank">Opendnp3</a>
+            <a href="https://dnp3.github.io/" target="_blank">OpenDNP3</a>
         </td>
         <td>
-            Opendnp3 is the de facto reference implementation of IEEE-1815 (DNP3) provided under the Apache License.
+            OpenDNP3 is the de facto reference implementation of IEEE-1815 (DNP3) provided under the Apache License.
+            It is currently in maintenance-only mode and new features are no longer being added. 
+            Automatak has rebranded as Step Function I/O and is now focused on writing protocol <a href="https://stepfunc.io/products/libraries/" target="_blank">libraries</a> in Rust.
         </td> 
     </tr>
     <tr>
@@ -397,7 +399,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="http://www.industry.siemens.com/topics/global/en/industrial-security/news-alerts/pages/alerts.aspx" target="_blank">Industrial Security Alerts</a>
+            <a href="https://new.siemens.com/global/en/products/services/cert.html" target="_blank">Industrial Security Alerts</a>
         </td>
         <td>
             Siemens provides alerts for its industrial systems via this page and RSS feed.
@@ -452,10 +454,10 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="http://ics.sans.org/ics-library/summit-archives" target="_blank">SANS ICS Summit Archives</a>
+            <a href="https://www.sans.org/cyber-security-summit/archives" target="_blank">SANS ICS Summit Archives</a>
         </td>
         <td>
-            Central repository for the presentation material for the SANS ICS Summits held worldwide. 
+            Central repository for the presentation material for the SANS ICS Summits held worldwide (interleaved with other summits). 
         </td> 
     </tr>
     <tr>
