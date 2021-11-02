@@ -70,6 +70,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/momalab/ICSREF" target="_blank">ICSREF</a>
+        </td>
+        <td>
+            A modular framework that automates the reverse engineering process of CODESYS binaries compiled with the CODESYS v2 compiler.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/woj-ciech/Kamerka-GUI" target="_blank">ꓘamerka GUI</a>
         </td>
         <td>
