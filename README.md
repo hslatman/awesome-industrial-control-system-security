@@ -70,6 +70,22 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/momalab/ICSREF" target="_blank">ICSREF</a>
+        </td>
+        <td>
+            A modular framework that automates the reverse engineering process of CODESYS binaries compiled with the CODESYS v2 compiler.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/momalab/ICSFuzz" target="_blank">ICSFuzz</a>
+        </td>
+        <td>
+            A PLC-side fuzzing tool for uncovering vulnerabilities in ICS control applications. The current version supports only applications based on the Codesys platform which has been modified and adapted for the Wago PLC.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/woj-ciech/Kamerka-GUI" target="_blank">ꓘamerka GUI</a>
         </td>
         <td>
