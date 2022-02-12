@@ -506,6 +506,37 @@ exploited by a malicious actuator.​
             An annual international industrial cybersecurity conference run by Kaspersky.  
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://iccps.acm.org/" target="_blank">ICCPS: ACM/IEEE International Conference on Cyber-Physical Systems</a>
+        </td>
+        <td>
+            The objective of ICCPS, the ACM/IEEE International Conference on Cyber-Physical Systems, is to serve as a single-track forum for reporting advances in all aspects of cyber-physical systems, including but not limited to theory, tools, applications, systems, and testbeds.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acsac.org/2021/workshops/icss/" target="_blank">Industrial Control System Security (ICSS) Workshop</a>
+        </td>
+        <td>
+            The goal of this workshop is to explore new techniques to improve security-critical control systems in the face of emerging threats.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.ds.unipi.gr/cybericps2021/" target="_blank">Workshop on the Security of Industrial Control Systems & of Cyber-Physical Systems (CyberICPS)</a>
+        </td>
+        <td>
+            CyberICPS intends to bring together researchers, engineers and governmental actors with an interest in the security of ICS and CPS in the context of their increasing exposure to cyber-space, by offering a forum for discussion on all issues related to their cyber security.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.ds.unipi.gr/cybericps2021/" target="_blank">Workshop on CPS & IoT Security and Privacy (CPSIoTSec)</a>
+        </td>
+        <td>
+            Joint Workshop on CPS&IoT Security and Privacy that aims to present work done in the areas of tackling security and privacy issues for CPS and IoT.
+    </tr>
 </table>
 
 ## Literature
