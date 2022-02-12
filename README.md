@@ -532,7 +532,7 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
-            <a href="https://www.ds.unipi.gr/cybericps2021/" target="_blank">Workshop on CPS & IoT Security and Privacy (CPSIoTSec)</a>
+            <a href="https://cpsiotsec.github.io/" target="_blank">Workshop on CPS & IoT Security and Privacy (CPSIoTSec)</a>
         </td>
         <td>
             Joint Workshop on CPS&IoT Security and Privacy that aims to present work done in the areas of tackling security and privacy issues for CPS and IoT.
