@@ -524,7 +524,7 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
-            <a href="https://www.ds.unipi.gr/cybericps2021/" target="_blank">Workshop on the Security of Industrial Control Systems & of Cyber-Physical Systems (CyberICPS)</a>
+            <a href="https://link.springer.com/book/10.1007/978-3-030-95484-0" target="_blank">Workshop on the Security of Industrial Control Systems & of Cyber-Physical Systems (CyberICPS)</a>
         </td>
         <td>
             CyberICPS intends to bring together researchers, engineers and governmental actors with an interest in the security of ICS and CPS in the context of their increasing exposure to cyber-space, by offering a forum for discussion on all issues related to their cyber security.
