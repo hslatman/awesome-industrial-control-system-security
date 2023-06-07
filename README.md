@@ -23,7 +23,7 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
-            <a href="https://us-cert.cisa.gov/ics/Assessments" target="_blank">CSET</a>
+            <a href="https://github.com/cisagov/cset" target="_blank">CSET</a>
         </td>
         <td>
             The Cyber Security Evaluation Tool (CSET®) assists organizations in protecting their key national cyber assets. 
