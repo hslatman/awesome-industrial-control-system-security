@@ -391,6 +391,14 @@ exploited by a malicious actuator.​
         <td>
             Repository containting original and decompiled files of TRISIS/TRITON/HATMAN malware targeting Triconex Safety Instrumented System (SIS) controllers.
         </td> 
+    </tr>   
+    <tr>
+        <td>
+            <a href="https://github.com/gkabasele/HVAC_Traces" target="_blank">HVAC Traces</a>
+        </td>
+        <td>
+           A repository that contains PCAP traces from a HVAC system of a university that can be used to ealuate Network Intrustion Detection Systems.
+        </td> 
     </tr>
     
 </table>
