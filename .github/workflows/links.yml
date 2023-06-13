@@ -17,10 +17,10 @@ jobs:
   linkChecker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v1.0.8
+        uses: lycheeverse/lychee-action@v1.8.0
         with:
           args: --verbose --no-progress **/*.md **/*.html
         env:
