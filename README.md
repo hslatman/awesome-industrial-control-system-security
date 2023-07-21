@@ -262,6 +262,14 @@ exploited by a malicious actuator.​
             A standalone PowerShell script that enumerates security issues on Siemens PCS 7 DCS servers, based on Siemens security guides. created by OTORIO
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://pycomm3.dev" target="_blank">pycomm3</a>
+        </td>
+        <td>
+            An open source and easy-to-use Python3 EtherNet/IP library for Rockwell Automation PLCs, includes ControlLogix, CompactLogix, Micro800, and basic support for MicroLogix, SLC500, and PLC5. Tag reading and writing includes support for structures like strings, UDTs, and AOIs, as well as retreiving the tag list and all data type definitions. Generic CIP messaging is supported too for custom features/services or communicating with other non-PLC EtherNet/IP devices. 
+        </td> 
+    </tr>
 </table>
 
 ## Distributions
