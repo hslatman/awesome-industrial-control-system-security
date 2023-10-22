@@ -262,6 +262,14 @@ exploited by a malicious actuator.​
             A standalone PowerShell script that enumerates security issues on Siemens PCS 7 DCS servers, based on Siemens security guides. created by OTORIO
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://opalopc.com/" target="_blank">OpalOPC</a>
+        </td>
+        <td>
+            OPC UA vulnerability and misconfiguration scanner.
+        </td>
+    </tr>
 </table>
 
 ## Distributions
