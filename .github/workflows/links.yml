@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v1.8.0
+        uses: lycheeverse/lychee-action@885c65f3dc543b57c898c8099f4e08c8afd178a2 # v2.6.1
         with:
           args: --verbose --no-progress **/*.md **/*.html
         env:
