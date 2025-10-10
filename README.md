@@ -262,6 +262,14 @@ exploited by a malicious actuator.​
             A standalone PowerShell script that enumerates security issues on Siemens PCS 7 DCS servers, based on Siemens security guides. created by OTORIO
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/jubnzv/iec-checker" target="_blank">IEC Checker</a>
+        </td>
+        <td>
+            An extendible open-source static analyzer for IEC 61131-3 programs written in Structured Text, supporting PLCOpen XML and SEL XML formats.
+        </td> 
+    </tr>
 </table>
 
 ## Distributions
