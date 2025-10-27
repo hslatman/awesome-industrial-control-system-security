@@ -825,6 +825,85 @@ Industrial Control System Cyber Security</a>
     </tr>
 </table>    
 
+
+## Standards and Regulations
+
+<table>
+    <tr>
+        <td>
+            <a href="https://www.iec.ch/iec62443-security-industrial-automation-and-control-systems" target="_blank">IEC 62443</a>
+        </td>
+        <td>
+            IEC 62443 is a series of international standards that provide comprehensive guidelines for securing Industrial Automation and Control Systems (IACS). It covers various aspects including policies, procedures, technical controls, and best practices to protect ICS from cyber threats. The standards are designed to help organizations implement robust cybersecurity measures tailored to the unique requirements of industrial environments.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://csrc.nist.gov/publications/detail/sp/800-82/rev-2/final" target="_blank">NIST SP 800-82 Rev. 2</a>
+        </td>
+        <td>
+            The National Institute of Standards and Technology (NIST) Special Publication 800-82 Revision 2 provides guidelines for securing Industrial Control Systems (ICS). It offers comprehensive advice on implementing security controls, risk management, and incident response tailored to ICS environments.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.nerc.com/pa/Stand/Pages/CIP.aspx" target="_blank">NERC CIP</a>
+        </td>
+        <td>
+            The North American Electric Reliability Corporation Critical Infrastructure Protection (NERC CIP) standards are mandatory cybersecurity requirements for the bulk electric system in North America. They focus on protecting the reliability and security of the electric grid from cyber threats.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.iso.org/standard/74974.html" target="_blank">ISO/IEC 27019</a>
+        </td>
+        <td>
+            ISO/IEC 27019 provides information security controls for the energy utility industry, complementing ISO/IEC 27001. It addresses specific security requirements related to energy production and distribution, ensuring the protection of critical infrastructure.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.isa.org/isa62443-functional-safety/" target="_blank">ISA/IEC 61508</a>
+        </td>
+        <td>
+            ISA/IEC 61508 is an international standard for the functional safety of electrical/electronic/programmable electronic safety-related systems. It provides a framework for ensuring that safety systems perform reliably and safely in industrial environments.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.api.org/products-and-services/standards/pipeline-standards/api-1164" target="_blank">API 1164</a>
+        </td>
+        <td>
+            API 1164 is a standard developed by the American Petroleum Institute for Pipeline SCADA Security. It outlines best practices for securing Supervisory Control and Data Acquisition (SCADA) systems used in pipeline operations.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.ul.com/resources/ul-1998-industrial-control-systems-cyber-security" target="_blank">UL 1998</a>
+        </td>
+        <td>
+            UL 1998 is a standard from Underwriters Laboratories that addresses cybersecurity for Industrial Control Systems. It provides guidelines for securing ICS against cyber threats, ensuring the safety and reliability of industrial operations.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.iso.org/standard/74974.html" target="_blank">ISO/IEC 27019</a>
+        </td>
+        <td>
+            ISO/IEC 27019 is part of the ISO/IEC 27000 family of standards and focuses on information security controls for the energy utility industry, providing guidelines tailored to the specific needs of this sector.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.isa.org/isa62443-functional-safety/" target="_blank">ISA/IEC 62443 Series</a>
+        </td>
+        <td>
+            The ISA/IEC 62443 series of standards provide a flexible framework to address and mitigate current and future security vulnerabilities in industrial automation and control systems (IACS). They cover various aspects such as system security, component security, and security program management.
+        </td> 
+    </tr>
+</table>
+
+
 ## License
 
 Licensed under [Apache License 2.0](LICENSE).
