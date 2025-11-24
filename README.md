@@ -566,6 +566,13 @@ exploited by a malicious actuator.​
         <td>
             CPS-Sec 2024 aims to serve as a platform for researchers and practitioners from both industry and academia interested in CPS security.
     </tr>
+    <tr>
+        <td>
+            <a href="https://ricssworkshop.github.io" target="_blank">International Workshop on Re-design Industrial Control Systems with Security (RICSS)</a>
+        </td>
+        <td>
+            While some proprietary ICS vendors have begun offering security solutions, free and open-source ICS software remains less recognized. The goal of the workshop is twofold: collecting ideas on redesigning (parts of) the ICS ecosystem; also inviting contributions on designing, incorporating, and maintaining secure open-source ICS software.
+    </tr>
 </table>
 
 ## Literature
