@@ -263,6 +263,14 @@ exploited by a malicious actuator.​
         </td> 
     </tr>
 </table>
+    <tr>
+        <td>
+            <a href="https://github.com/bad-antics/blackflag-ecu" target="_blank">BlackFlag ECU</a>
+        </td>
+        <td>
+            CAN bus security testing and analysis tool for ECU research, fuzzing, and reverse engineering of automotive and industrial vehicle communication protocols. Supports protocol dissection, frame injection, and automated vulnerability scanning across CAN 2.0 and CAN FD networks.
+        </td>
+    </tr>
 
 ## Distributions
 
