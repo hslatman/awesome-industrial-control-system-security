@@ -9,6 +9,14 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
+            <a href="https://github.com/larionovavi-stack/awtscada" target="_blank">awtSCADA</a>
+        </td>
+        <td>
+            A complete industrial SCADA/HMI system with IEC 61850 (MMS, GOOSE, SV), OPC UA, Modbus TCP, and MQTT support that runs entirely in a web browser from a single HTML file. Features 53 function blocks, 65 graphic elements, and Python gateway for real PLC/RTU connections. Useful for ICS security research and training environments.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://gitlab.com/jhcastel/attkfinder" target="_blank">AttkFinder</a>
         </td>
         <td>
