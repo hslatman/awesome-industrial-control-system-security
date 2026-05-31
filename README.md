@@ -700,6 +700,22 @@ Industrial Control System Cyber Security</a>
             The objective of this document is to have broad applicability across sectors. IoT affects all areas of computingacross multiple sectors, such as healthcare, aviation, public safety, and energy. This has led to sector-specific IoT security guidance, but this document is purposefully sector-agnostic.
        </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://aem.lri.com.br/en-us/whitepapers/wp03-iec-62443-sl2-checklist" target="_blank">IEC 62443-4-2 SL2 in Practice: An Integrator Checklist (LRI, 2026)</a>
+        </td>
+        <td>
+            Practical checklist for applying IEC 62443-4-2 Security Level 2 to industrial device integrations. Covers concrete acceptance criteria, threat-model mapping, and SCADA integrator obligations. Disclosure: published by an industrial device manufacturer; IEC 62443 mapping is product-agnostic.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://aem.lri.com.br/en-us/whitepapers/wp01-modbus-secure-design" target="_blank">Modbus RTU for Secure DC Monitoring: Architecture, Applications and Secure by Design (LRI, 2026)</a>
+        </td>
+        <td>
+            4500-word technical whitepaper covering Modbus RTU architecture, isolation requirements, Ed25519 firmware signing, anti-rollback persistence and forensic telemetry over Modbus. Disclosure: same as above.
+        </td> 
+    </tr>
 </table>
 
 
