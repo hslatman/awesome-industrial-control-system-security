@@ -414,6 +414,67 @@ exploited by a malicious actuator.​
 	    The Industrial Information Security Management System (I-ISMS) can be used to rapidly deploy an information security management program in an industrial setting. It provides templates for creating and implementing a program starting from the basics.
         </td>
     </tr>
+	<tr>
+        <td>
+            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5619874" target="_blank">Safety-Critical OT Cybersecurity Integration Framework</a>
+        </td>
+        <td>
+            A practitioner framework for integrating IEC 62061 functional safety requirements with NCSC Cyber Assessment Framework (CAF) objectives in safety-critical OT environments. Developed from operational practice at a national research facility operating Safety Integrity Level 2 systems. Covers governance, architecture, monitoring, change control, and continuous improvement with a 58-item implementation checklist. Applicable to research infrastructure, nuclear, energy, manufacturing, and any environment where safety PLCs intersect with networked IT systems.
+        </td>
+    </tr>
+</table>
+
+## Functional Safety and Cybersecurity Integration
+
+<table>
+    <tr>
+        <td>
+            <a href="https://www.iso.org/standard/73774.html" target="_blank">IEC 62061: Functional Safety of Safety-Related Control Systems</a>
+        </td>
+        <td>
+            The primary international standard for functional safety in safety-related control systems for machinery. Defines Safety Integrity Levels (SIL 1–3) and Probability of Failure on Demand (PFHd) requirements. Essential reading for any practitioner securing systems where a cybersecurity failure may have physical consequences.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.ncsc.gov.uk/collection/cyber-assessment-framework" target="_blank">NCSC Cyber Assessment Framework (CAF)</a>
+        </td>
+        <td>
+            The UK National Cyber Security Centre's primary cybersecurity governance framework for operators of essential services and critical national infrastructure. Four objectives (A: Governance, B: Protection, C: Detection, D: Response and Recovery). Widely adopted across UK CNI sectors.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5619874" target="_blank">Safety-Critical OT Cybersecurity Integration Framework</a>
+        </td>
+        <td>
+            A practitioner framework integrating IEC 62061 functional safety requirements with NCSC CAF objectives for safety-critical OT environments. Developed from operational experience securing a Safety Integrity Level 2 Personnel Protection System at a national scientific research facility. Addresses the three core tensions: patching vs safety validation, access control vs emergency response, and cybersecurity monitoring vs safety system stability. Includes a 58-item implementation checklist.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.iec.ch/homepage" target="_blank">IEC 62443: Industrial Automation and Control Systems Security</a>
+        </td>
+        <td>
+            The international standard series for cybersecurity in industrial automation and control systems. Provides a Zone and Conduit security architecture model widely referenced in OT security assessments. Complements IEC 62061 for environments requiring both functional safety and cybersecurity governance.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://csrc.nist.gov/publications/detail/sp/800-82/rev-3/final" target="_blank">NIST SP 800-82 Rev 3: Guide to Operational Technology Security</a>
+        </td>
+        <td>
+            NIST guidance specifically for OT security. Covers OT-specific network architecture, incident response, and the challenges of securing systems that cannot be patched or shut down using standard IT processes.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.dragos.com/resource/trisis-analyzing-safety-system-targeted-malware/" target="_blank">Triton/TRISIS Attack Analysis (Dragos)</a>
+        </td>
+        <td>
+            In-depth analysis of the first known malware specifically designed to target Safety Instrumented Systems. Critical reading for understanding why functional safety systems require dedicated cybersecurity attention.
+        </td>
+    </tr>
 </table>
 
 ## Feeds and News
