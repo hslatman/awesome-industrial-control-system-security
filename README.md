@@ -60,6 +60,19 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/industrial-aiops/industrial-aiops" target="_blank">iaiops</a>
+        </td>
+        <td>
+            Vendor-neutral, read-first tap across 14 field protocols (OPC-UA, Modbus, S7comm, EtherNet/IP,
+EtherCAT, PROFINET-DCP, BACnet/IP, HART-IP, MTConnect, MELSEC, FINS, IO-Link, SECS/GEM, MQTT/Sparkplug B).
+Every tool call is wrapped by a governance decorator that records it to a SHA-256 hash-chained audit log,
+so the operator record is tamper-evident. Write operations are off by default and gated behind a dry-run,
+a one-shot approval token and a before-state capture for undo. An IAIOPS_NO_EGRESS mode removes every
+data-egress tool at registration time and fails closed, for use on air-gapped or segmented networks.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/fireeye/ics_mem_collect" target="_blank">ics_mem_collect</a>
         </td>
         <td>
