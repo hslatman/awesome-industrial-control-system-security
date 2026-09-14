@@ -330,22 +330,6 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
-            <a href="https://media.defcon.org/DEF%20CON%2023/DEF%20CON%2023%20villages/DEF%20CON%2023%20ics%20village/DEF%20CON%2023%20ICS%20Village%20packet%20captures.rar" target="_blank">DEF CON 23 ICS Village PCAPS</a>
-        </td>
-        <td>
-            PCAPS from the 23rd DEF CON.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://icsmap.shodan.io/" target="_blank">ICS Map</a>
-        </td>
-        <td>
-            A map created from data gathered by Shodan showing ICS devices. Data is made available for further analysis.
-        </td> 
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/automayt/ICS-pcap" target="_blank">ICS PCAP Collection by Jason Smith</a>
         </td>
         <td>
@@ -354,26 +338,10 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
-            <a href="https://ics-radar.shodan.io/" target="_blank">ICS Radar</a>
-        </td>
-        <td>
-            Data gathered from several types of ICS protocols by Shodan visualized on a globe.
-        </td> 
-    </tr>
-    <tr>
-        <td>
             <a href="https://www.netresec.com/?page=DigitalBond_S4" target="_blank">S4x15 ICS Village</a>
         </td>
         <td>
             Mirror for the PCAPS from the S4x15 CTF as used during the contest.
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://sourceforge.net/projects/s7commwireshark/files/Sample-captures/" target="_blank">S7 PCAP samples</a>
-        </td>
-        <td>
-            Sample files for Wireshark S7 protocol dissector plugin.
         </td> 
     </tr>
     <tr>
@@ -421,7 +389,7 @@ exploited by a malicious actuator.​
 <table>
     <tr>
         <td>
-            <a href="https://ics-cert.us-cert.gov/alerts" target="_blank">ICS-CERT Alerts</a>
+            <a href="https://www.cisa.gov/news-events/ics-advisories" target="_blank">ICS-CERT Alerts</a>
         </td>
         <td>
             The ICS-CERT Alert feed is intended to provide timely notification to critical infrastructure owners and operators concerning threats or activity with the potential to impact critical infrastructure computing networks.
@@ -429,7 +397,7 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
-            <a href="https://ics-cert.us-cert.gov/xml/rss.xml" target="_blank">ICS-CERT RSS Feed</a>
+            <a href="https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml" target="_blank">ICS-CERT RSS Feed</a>
         </td>
         <td>
             The RSS feed by the United States ICS-CERT lists news and newly released vulnerability advisories.
@@ -484,7 +452,7 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
-            <a href="https://cs3sthlm.se/" target="_blank">CS4CA</a>
+            <a href="https://cs4ca.com/" target="_blank">CS4CA</a>
         </td>
         <td>
              Cyber Security for Critical Assets is a global series of summits focusing on cyber security for critical infrastructure.
@@ -573,7 +541,7 @@ exploited by a malicious actuator.​
 <table>
     <tr>
         <td>
-            <a href="https://collaborate.mitre.org/attackics/index.php/Main_Page" target="_blank">ATT&CK® for Industrial Control Systems by MITRE</a>
+            <a href="https://attack.mitre.org/matrices/ics/" target="_blank">ATT&CK® for Industrial Control Systems by MITRE</a>
         </td>
         <td>
             ATT&CK for ICS is a knowledge base useful for describing the actions an adversary may take while operating within an ICS network.
@@ -622,7 +590,7 @@ Industrial Control System Cyber Security</a>
     </tr>
     <tr>
         <td>
-            <a href="http://www.isaca.org/Journal/archives/2014/Volume-1/Documents/SCADA-Cybersecurity-Framework_joa_Eng_0114.pdf" target="_blank">SCADA Cybersecurity Framework</a>
+            <a href="https://www.isaca.org/-/media/files/isacadp/project/isaca/articles/journal/2014-and-older/scada-cybersecurity-framework_joa_eng_0114" target="_blank">SCADA Cybersecurity Framework</a>
         </td>
         <td>
             Paper describing what a SCADA Cyber Security framework should consist of.
@@ -670,7 +638,7 @@ Industrial Control System Cyber Security</a>
     </tr>
     <tr>
         <td>
-            <a href="http://www.controleng.com/networking-security/cyber-security.html" target="_blank">Control Engineering - Networking and Security - CyberSecurity</a>
+            <a href="https://www.controleng.com/system-integration/cybersecurity/" target="_blank">Control Engineering - Networking and Security - CyberSecurity</a>
         </td>
         <td>
             Control Engineering magazine's cybersecurity news and literature. 
@@ -694,7 +662,7 @@ Industrial Control System Cyber Security</a>
     </tr>
     <tr>
        <td>
-           <a href="https://www.nrdcs.lt/file/repository/resources/CIS_Controls_IoT_Companion_Guide.pdf" target="_blank">CIS Controls Internet of Things Companion Guide - Version 7.1</a>
+           <a href="https://www.cisecurity.org/white-papers/cis-controls-internet-of-things-companion-guide/" target="_blank">CIS Controls Internet of Things Companion Guide - Version 7.1</a>
        </td>
        <td>
             The objective of this document is to have broad applicability across sectors. IoT affects all areas of computingacross multiple sectors, such as healthcare, aviation, public safety, and energy. This has led to sector-specific IoT security guidance, but this document is purposefully sector-agnostic.
