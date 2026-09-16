@@ -730,6 +730,14 @@ Industrial Control System Cyber Security</a>
             The ICS Cyber Security Institute offers on-line training developed by practitioners in both ICS system design/operation and cyber security design/compliance. 
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.labshocksecurity.com/" target="_blank">Labshock</a>
+        </td>
+        <td>
+            Labshock is a real-world industrial cybersecurity environment for PLC/SCADA, industrial protocols and IDS/SIEM tools. Built for hands-on OT security learning, pentesting, security validation and building labs in controlled environments. You start from zero and advance through 10 zones, each representing a new layer of OT security complexity — from basic SCADA interaction to industrial protocol testing and DMZ architecture analysis.
+        </td> 
+    </tr>
 </table>
 
 ## Introduction to ICS, SCADA, & PLCs
