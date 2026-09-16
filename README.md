@@ -467,6 +467,14 @@ exploited by a malicious actuator.​
             Get the latest updates and alerts on Cyber Security and Compliance from Schneider Electric Software.
         </td> 
     </tr>
+	 <tr>
+        <td>
+            <a href="https://tagsia.com/maritime-operational-intelligence/vulnerable-assets-library/" target="_blank">TAGSIA Maritime OT Vulnerability Database</a>
+        </td>
+        <td>
+            A free, continuously-updated database of CISA ICS-CERT advisories and CVEs, filtered specifically for shipboard automation and navigation equipment (ECDIS, PMS, AMS, bridge/engine-room systems). Searchable by vendor. No signup required.
+        </td>
+    </tr>
 </table>
 
 
