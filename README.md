@@ -730,6 +730,14 @@ Industrial Control System Cyber Security</a>
             The ICS Cyber Security Institute offers on-line training developed by practitioners in both ICS system design/operation and cyber security design/compliance. 
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/fabjan4u/hack-the-bridge-soc" target="_blank">Hack the Bridge SOC</a>
+        </td>
+        <td>
+            Educational Blue Team Security Operations Center (SOC) dashboard and Siemens S7 PLC telemetry simulator designed for the "Hack the Bridge" challenge in the Cyber Security Living Lab (CSyLL). Developed in collaboration with mboRijnland, CIV Smart Technology, Siemens, and The Hague University of Applied Sciences, it enables students to monitor real-time industrial telemetry, simulate attack injection against bridge infrastructure, and stream intrusion detection alerts via REST API.
+        </td> 
+    </tr>
 </table>
 
 ## Introduction to ICS, SCADA, & PLCs
