@@ -262,6 +262,17 @@ exploited by a malicious actuator.​
             A standalone PowerShell script that enumerates security issues on Siemens PCS 7 DCS servers, based on Siemens security guides. created by OTORIO
         </td> 
     </tr>
+	<tr>
+        <td>
+            <a href="https://github.com/f0rw4rd/oida" target="_blank">OIDA</a>
+        </td>
+        <td>
+            OIDA is a NetExec-style CLI for OT/ICS assessments. It scans, fuzzes, and assesses
+            OT protocols (e.g. Modbus, OPC UA) with a uniform oida &lt;protocol&gt; &lt;target&gt;
+            syntax, works air-gapped from a single binary, and defaults to read-only operations
+            with writes explicitly gated.
+        </td>
+    </tr>
 </table>
 
 ## Distributions
