@@ -141,6 +141,14 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/suoten/ProtoForge" target="_blank">ProtoForge</a>
+        </td>
+        <td>
+            ProtoForge is an open-source multi-protocol industrial device simulator (28 protocols including Modbus TCP/RTU, S7, OPC-UA, EtherCAT/PROFINET, IEC 104/61850, BACnet, GB28181). It lets you test SCADA, HMI, gateway, and IoT platform software without hardware, with fault injection and protocol compliance checking built in.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/moki-ics/modscan" target="_blank">ModScan</a>
         </td>
         <td>
