@@ -262,6 +262,14 @@ exploited by a malicious actuator.​
             A standalone PowerShell script that enumerates security issues on Siemens PCS 7 DCS servers, based on Siemens security guides. created by OTORIO
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Trustpoint-Project/trustpoint" target="_blank">Trustpoint</a>
+        </td>
+        <td>
+            Trustpoint is an MIT-licensed, open-source PKI and machine identity management platform for industrial control systems and OT environments. It automates X.509 certificate enrollment, renewal and revocation, supports local CA and upstream RA operation, and integrates industrial devices through EST, CMP, SCEP and OPC UA GDS Push.
+        </td>
+    </tr>
 </table>
 
 ## Distributions
