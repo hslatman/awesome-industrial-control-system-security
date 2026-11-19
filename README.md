@@ -9,7 +9,7 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
-            <a href="https://gitlab.com/jhcastel/attkfinder" target="_blank">AttkFinder</a>
+            <a href="https://gitlab.com" target="_blank">AttkFinder</a>
         </td>
         <td>
             AttkFinder is a tool that performs static program analysis of PLC programs, and
@@ -23,15 +23,22 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/cisagov/cset" target="_blank">CSET</a>
+            <a href="https://busscope.com" target="_blank">Busscope</a>
+        </td>
+        <td>
+            Windows Modbus master and slave testing suite with Modbus/TCP Security (TLS 1.2+) support and a free browser-based frame parser for protocol diagnostics.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com" target="_blank">CSET</a>
         </td>
         <td>
             The Cyber Security Evaluation Tool (CSET®) assists organizations in protecting their key national cyber assets. 
             This tool provides users with a systematic and repeatable approach for assessing the security posture of their cyber systems and networks. 
             It includes both high-level and detailed questions related to all industrial control and IT systems.​
         </td> 
-    </tr>
-    <tr>
+    </tr>    <tr>
         <td>
             <a href="https://www.digitalbond.com/tools/basecamp/3s-codesys/" target="_blank">Digital Bond's 3S CoDeSys Tools</a>
         </td>
