@@ -100,6 +100,14 @@ exploited by a malicious actuator.​
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/joseluisnebot/industrial-protocol-emulator" target="_blank">Industrial Protocol Emulator</a>
+        </td>
+        <td>
+            Single Docker container that emulates field devices over Modbus TCP, OPC-UA, MQTT, SNMP and BACnet/IP (DNP3 and EtherNet/IP as basic stubs) from one tag set, with a web panel to watch and override signals. Meant for ICS labs, SCADA/HMI testing and IDS rule development.
+        </td> 
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/woj-ciech/Kamerka-GUI" target="_blank">ꓘamerka GUI</a>
         </td>
         <td>
